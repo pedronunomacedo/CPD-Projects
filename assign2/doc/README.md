@@ -22,7 +22,6 @@ Project made during the course of Parallel and Distributed Computing (CPD) in FE
         <li><a href="#installation">Installation</a></li>
       </ul>
     </li>
-    <li><a href="#usage">Usage</a></li>
     <li><a href="#authors">Authors</a></li>
   </ol>
 
