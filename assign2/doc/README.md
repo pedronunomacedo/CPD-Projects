@@ -18,8 +18,7 @@ Project made during the course of Parallel and Distributed Computing (CPD) in FE
     <li>
       <a href="#getting-started">Getting Started</a>
       <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
+        <li><a href="#run">Prerequisites</a></li>
       </ul>
     </li>
     <li><a href="#authors">Authors</a></li>
