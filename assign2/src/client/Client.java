@@ -163,20 +163,20 @@ public class Client {
 
         while (!clientStop) {
             switch (Integer.parseInt(userInput)) {
-                case 1 -> { // login
+                case 1: // login
                     clientStop = this.authenticate(false);
-                }
-                case 2 -> { // register
+                    break;
+                case 2: // register
                     clientStop = this.register();
-                }
-                case 3 -> { // reconnect
+                    break;
+                case 3: // reconnect
                     clientStop = this.reconnect();
-                }
-                case 4 -> { // quit
+                    break;
+                case 4: // quit
                     this.closeEverything();
                     clientStop = true;
                     System.exit(1);
-                }
+                    break;
             }
         }
 
